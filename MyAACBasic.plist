@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zionbi.MyAACBasic</string>
+				<string>kr.or.ncfoundation.myaacbasic</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
