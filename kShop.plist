@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.zionbi.com/iPhone/ipa_download/kShop/kShop.ipa</string>
+					<string>http://www.zionbi.com/iPhone/ipa_download/kShop/KShop.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>k쇼핑</string>
+				<string>K쇼핑</string>
 			</dict>
 		</dict>
 	</array>
