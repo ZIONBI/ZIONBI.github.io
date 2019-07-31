@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zionbi.kshop</string>
+				<string>com.kthent.nkshop</string>
 				<key>bundle-version</key>
 				<string>2.3.0</string>
 				<key>kind</key>
